@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7c6c08f1a421e145b51a1311a981980, type: 3}
+  m_Name: new Model
+  m_EditorClassIdentifier: 
+  characterBodyParts:
+  - partName: Body
+    part: {fileID: 11400000, guid: 46027a1f6b5c5984ebd837b043c5d747, type: 2}
+  - partName: Hair
+    part: {fileID: 11400000, guid: c0b4a8b2240601543a5f3194449e551b, type: 2}
+  - partName: Skin
+    part: {fileID: 11400000, guid: c9272cd138e5c7045a0ac9d82c7d4894, type: 2}
